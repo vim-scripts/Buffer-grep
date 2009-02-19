@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2545
+
+Use 
+  Bgrep /expression/ 
+to search all buffers for an expression and put it in a new quickfix list.
